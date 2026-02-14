@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [TokenK] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Walter White]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Lakshmi S] - [GECT]
+- Member 2: [Rithu Krishna R] - [GECT]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Our project is a smart hospital pre-booking system that allows patients to book appointments and reserve queue slots in advance. It reduces waiting time, avoids overcrowding, and makes hospital visits faster and more organized,improving convenience for both patients and hospital staff.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Healthcare facilities frequently face challenges such as prolonged waiting times, overcrowded waiting areas, and inefficient appointment scheduling systems. These issues reduce patient satisfaction and increase administrative burden. There is a critical need for an intelligent, technology-driven solution that enables advance booking and optimized queue management to enhance efficiency, transparency, and patient care experience.]
 
 ### The Solution
-[How are you solving it?]
+[Our solution allows patients to pre-book appointments, select preferred time slots, and receive a digital queue number before reaching the hospital. This reduces overcrowding and saves time for both patients and staffs.]
 
 ---
 
@@ -31,10 +31,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [html,css,javascript]
+- Frameworks used: []
+- Libraries used: []
+- Tools used: [ VS Code, Git]
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,10 +46,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Digitaly prebooking tokens at hospitals]
+- Feature 2: [Reduced waiting time]
+- Feature 3: [Reduces paper based registration delays]
+- Feature 4: [Automated notifications]
 
 ---
 
