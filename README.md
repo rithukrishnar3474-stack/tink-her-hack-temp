@@ -13,7 +13,7 @@
 - Member 2: [Rithu Krishna R] - [GECT]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://tokenk2.onrender.com]
 
 ### Project Description
 [Our project is a smart hospital pre-booking system that allows patients to book appointments and reserve queue slots in advance. It reduces waiting time, avoids overcrowding, and makes hospital visits faster and more organized,improving convenience for both patients and hospital staff.]
@@ -32,7 +32,7 @@
 
 **For Software:**
 - Languages used: [html,css,javascript]
-- Frameworks used: []
+- Frameworks used: [Node.js]
 - Libraries used: []
 - Tools used: [ VS Code, Git]
 
@@ -83,14 +83,16 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1916" height="893" alt="Screenshot 2026-02-14 094805" src="https://github.com/user-attachments/assets/18e998d4-c669-4702-a7d3-a274e8b94441" />
+*Choose your location,select your department and find the right choice in seconds*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1904" height="899" alt="Screenshot 2026-02-14 094828" src="https://github.com/user-attachments/assets/93b1e584-8051-4961-8c1e-cfb66d8a3129" />]
+
+*Find nearby hospitals,check availability,and book your slot instantly.Healthcare made efficient and stress free*
+
+![<img width="1892" height="887" alt="Screenshot 2026-02-14 094916" src="https://github.com/user-attachments/assets/555fd281-f972-40d8-9b83-5a91d0f69696" />]
+*Seamless booking confirmation with live queue status and quick qr payment for token*
 
 #### Diagrams
 
